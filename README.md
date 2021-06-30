@@ -1,2 +1,0 @@
-# E-Cart
-SQL project
